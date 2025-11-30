@@ -1,0 +1,170 @@
+
+-----------------------------------------
+
+Fecha de Modificacion: 2025-11-29 19:03:42
+
+Nombre de la pc: DESKTOP-MIJ7MS3
+
+DIreccion IP: 10.133.225.26
+
+Usuario activo: Mario
+
+Usuarios Administrador:
+Administrador
+Mario
+
+Usuarios del Sistema
+Mario
+
+Aplicaciones Instaladas:
+Mount and Blade: Warband, 2.036_(1.172)
+Warhammer 40,000: Dawn of War - Dark Crusade, 0.19
+Google Chrome, 142.0.7444.176
+Microsoft Edge, 142.0.3595.94
+WebView2 Runtime de Microsoft Edge, 142.0.3595.94
+Steam, 2.10.91.91
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.40.33810, 14.40.33810
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005, 12.0.21005
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005, 12.0.21005.1
+UrbanVPN, 4.0.4.0
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.40.33810, 14.40.33810.0
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.40.33810, 14.40.33810
+Craft The World MULTi9 - ElAmigos versión 1.11.004, 1.11.004
+Microsoft Visual C++ 2005 Redistributable, 8.0.61187
+Microsoft Visual C++ 2005 Redistributable, 8.0.56336
+Microsoft Visual F# 2.0 Runtime, 10.0.40219
+Python Launcher, 3.14.150.0
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.36.32532, 14.36.32532.0
+Office 16 Click-to-Run Extensibility Component, 16.0.12527.22270
+Office 16 Click-to-Run Localization Component, 16.0.12527.22270
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523, 9.0.30729.7523
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030, 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030, 11.0.61030
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030, 11.0.61030.0
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030, 11.0.61030.0
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219, 10.0.40219
+Realtek High Definition Audio Driver, 6.0.8940.1
+Sid Meiers Civilization VI Digital Deluxe MULTi12 - ElAmigos versión 1.0.12.46, 1.0.12.46
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005, 12.0.21005
+Napoleon Total War MULTi7 - ElAmigos versión 1.3.0.2081, 1.3.0.2081
+Arduino IDE 2.3.6, 2.3.6
+AIMP, 5.40.2700
+Mozilla Firefox (x64 es-ES), 145.0.2
+Mozilla Maintenance Service, 144.0
+PotPlayer-64 bit, 25.09.09.0
+Microsoft Office Profesional Plus 2016 - es-es, 16.0.12527.22286
+simplewall, 3.8.7
+Fallout Shelter, undefined
+TAP-Windows 9.24.2, 9.24.2
+TeamSpeak 3 Client, 3.6.2
+UrbanVPN, 4.0.4.0
+WinRAR 6.22 (64-bit), 6.22.0
+XAMPP, 8.2.12-0
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532, 14.36.32532
+Python 3.14.0 Development Libraries (64-bit), 3.14.150.0
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219, 10.0.40219
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030, 11.0.61030
+Python 3.14.0 Tcl/Tk Support (64-bit), 3.14.150.0
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523, 9.0.30729.7523
+Python 3.14.0 pip Bootstrap (64-bit), 3.14.150.0
+Python 3.14.0 Add to Path (64-bit), 3.14.150.0
+Python 3.14.0 Standard Library (64-bit), 3.14.150.0
+Python 3.14.0 Core Interpreter (64-bit), 3.14.150.0
+Office 16 Click-to-Run Licensing Component, 16.0.12527.22270
+Office 16 Click-to-Run Extensibility Component 64-bit Registration, 16.0.12527.22270
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005, 12.0.21005
+Python 3.14.0 Documentation (64-bit), 3.14.150.0
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005, 12.0.21005
+Microsoft Visual C++ 2005 Redistributable (x64), 8.0.61186
+Python 3.14.0 Test Suite (64-bit), 3.14.150.0
+Python 3.14.0 Executables (64-bit), 3.14.150.0
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030, 11.0.61030
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532, 14.36.32532
+ESET Endpoint Antivirus, 5.0.2237.1
+GitHub Desktop, 3.3.1
+Microsoft OneDrive, 25.206.1021.0003
+Opera Stable 124.0.5705.42, 124.0.5705.42
+ULauncher, 0.33.52
+µTorrent, 3.6.0.47228
+Microsoft Visual Studio Code (User), 1.106.3
+Python 3.14.0 (64-bit), 3.14.150.0
+
+Escaneo de Puertos:
+Puerto: 135, Servicio: epmap
+Puerto: 139, Servicio: netbios-ssn
+Puerto: 445, Servicio: microsoft-ds
+
+Dispositivos Conectados:
+
+Impresoras Activas:
+Send To OneNote 2016
+Microsoft XPS Document Writer
+Microsoft Print to PDF
+Fax
+
+Dispositivos USB:
+Caption: WDC WD10JPVX-60JC3T1, Description: Unidad de disco, Model: WDC WD10JPVX-60JC3T1, Name: \\.\PHYSICALDRIVE0, SerialNumber:      WD-WXU1EB62U8XE, PNPDeviceID: SCSI\DISK&VEN_WDC&PROD_WD10JPVX-60JC3T1\4&28A914D7&0&000000, InterfaceType: IDE
+
+Teclados:
+Dispositivo de entrada USB
+Dispositivo de entrada USB
+Teclado PS/2 estándar
+
+Mouse:
+Synaptics SMBus TouchPad
+Logitech HID-compliant Cordless Mouse
+
+Discos:
+WDC WD10JPVX-60JC3T1
+C:
+D:
+E:
+
+Estado de los puertos USB:
+Caption                                                            DeviceID                                                      Status
+Dispositivo de entrada USB                                         USB\VID_0461&PID_4E99&MI_01\6&2801E92B&0&0001                 OK
+Controlador de host eXtensible Intel(R) USB 3.0 - 1.0 (Microsoft)  PCI\VEN_8086&DEV_9D2F&SUBSYS_832A103C&REV_21\3&11583659&0&A0  OK
+Dispositivo compuesto USB                                          USB\VID_04E8&PID_6860\R5CY50BB5QE                             OK
+Dispositivo compuesto USB                                          USB\VID_046D&PID_C534\5&237D5C64&0&3                          OK
+Dispositivo serie USB (COM3)                                       USB\VID_04E8&PID_6860&MI_01\6&126C35CB&0&0001                 OK
+Dispositivo de entrada USB                                         USB\VID_046D&PID_C534&MI_01\6&D64C530&0&0001                  OK
+Dispositivo de entrada USB                                         USB\VID_046D&PID_C534&MI_00\6&D64C530&0&0000                  OK
+Dispositivo compuesto USB                                          USB\VID_0461&PID_4E99\5&237D5C64&0&1                          OK
+Concentrador raz USB (USB 3.0)                                    USB\ROOT_HUB30\4&247E1066&0&0                                 OK
+Dispositivo de entrada USB                                         USB\VID_0461&PID_4E99&MI_00\6&2801E92B&0&0000                 OK
+Dispositivo compuesto USB                                          USB\VID_1BCF&PID_2C9B\5&237D5C64&0&5                          OK
+
+Estado de otros puertos:
+El puerto Serial está cerrado
+El puerto LPT está cerrado
+El puerto Ethernet está cerrado
+El puerto HDMI está cerrado
+El puerto VGA está cerrado
+El puerto DVI está cerrado
+El puerto Audio está abierto
+El puerto SD está cerrado
+
+
+
+Escritorio Remoto:
+Deshabilitado
+
+Parches de Seguridad:
+ID: KB4601556, Descripción: Update, Instalado en: 10/20/2025
+ID: KB4517245, Descripción: Update, Instalado en: 2/11/2020
+ID: KB4537759, Descripción: Security Update, Instalado en: 2/11/2020
+ID: KB4538674, Descripción: Security Update, Instalado en: 2/11/2020
+ID: KB4577586, Descripción: Update, Instalado en: 10/20/2025
+ID: KB4589211, Descripción: Update, Instalado en: 10/20/2025
+ID: KB4532693, Descripción: Update, Instalado en: 2/11/2020
+
+Estado de las carpetas compartidas:
+C$           C:\                             Recurso predeterminado
+D$           D:\                             Recurso predeterminado
+IPC$                                         IPC remota
+ADMIN$       C:\Windows                      Admin remota
+
+Unido al servivio KMS:
+No
+
+Historial de dispositivos conectados
